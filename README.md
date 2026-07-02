@@ -111,5 +111,3 @@ end product.
 
 <br><br>
 
-# Reference
-https://iotdesignpro.com/projects/iot-based-smart-parking-using-esp8266
